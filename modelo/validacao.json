@@ -1,0 +1,52 @@
+{
+  "lente.stl": {
+    "vertices": 24480,
+    "arestas": 73440,
+    "triangulos": 48960,
+    "arestas_nao_manifold": 0,
+    "faces_degeneradas": 0,
+    "componentes": 1,
+    "caracteristica_euler": 0,
+    "auto_intersecoes": 0,
+    "volume_mm3": 3735.6168774610724,
+    "vao_central_aberto": true,
+    "moldura_presente": true,
+    "dimensoes_mm": [
+      90.0,
+      65.0,
+      13.999992370605469
+    ],
+    "dimensoes_corretas": true,
+    "flecha_medida_mm": 9.999971389770522,
+    "curvatura_correta": true,
+    "espessura_local_no_raio_mm": 3.9994468688964844,
+    "espessura_maxima_mm": 4.000001061333805,
+    "espessura_correta": true,
+    "aprovado": true
+  },
+  "lente_espelhada.stl": {
+    "vertices": 24480,
+    "arestas": 73440,
+    "triangulos": 48960,
+    "arestas_nao_manifold": 0,
+    "faces_degeneradas": 0,
+    "componentes": 1,
+    "caracteristica_euler": 0,
+    "auto_intersecoes": 0,
+    "volume_mm3": 3735.616877461082,
+    "vao_central_aberto": true,
+    "moldura_presente": true,
+    "dimensoes_mm": [
+      90.0,
+      65.0,
+      13.999992370605469
+    ],
+    "dimensoes_corretas": true,
+    "flecha_medida_mm": 9.999971389770522,
+    "curvatura_correta": true,
+    "espessura_local_no_raio_mm": 3.9994468688964844,
+    "espessura_maxima_mm": 4.000001061333805,
+    "espessura_correta": true,
+    "aprovado": true
+  }
+}

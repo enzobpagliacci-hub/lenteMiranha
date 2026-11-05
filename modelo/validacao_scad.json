@@ -1,0 +1,23 @@
+{
+  "mascara_v3_90x65_flecha10": {
+    "volume_mm3": 3735.6163939929293,
+    "arestas_nao_manifold": 0,
+    "dimensoes_mm": [
+      90.0,
+      65.0,
+      14.0
+    ],
+    "aprovado": true,
+    "desvio_maximo_vertices_em_relacao_ao_STL_mm": 8.593659003963694e-05
+  },
+  "espelhado_80x60_flecha8": {
+    "volume_mm3": 3064.9902474534842,
+    "arestas_nao_manifold": 0,
+    "dimensoes_mm": [
+      80.0,
+      60.0,
+      12.0
+    ],
+    "aprovado": true
+  }
+}

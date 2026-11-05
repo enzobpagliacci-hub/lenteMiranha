@@ -1,0 +1,18 @@
+{
+  "largura_mm": 90,
+  "altura_mm": 65,
+  "flecha_mm": 10,
+  "espessura_mm": 4,
+  "altura_lateral_mm": 1.2,
+  "perfil_frontal": "el\u00edptico abaulado",
+  "referencia": "olho mais vis\u00edvel da fotografia da m\u00e1scara",
+  "versao": 3,
+  "profundidade_total_mm": 13.999992537011948,
+  "raio_curvatura_mm": 106.25,
+  "espessura_medida_em": "Z",
+  "eixo_curvatura": "X",
+  "vertices": 24480,
+  "triangulos": 48960,
+  "plano": false,
+  "centro_vazado": true
+}
